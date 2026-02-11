@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ContactManagerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDF8FF-2684-E2F1-C99F-95A8BF9C16F7}|ContactManagerApp\\ContactManagerApp.csproj|d:\\projects\\contactmanagerapp\\contactmanagerapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ACCDF8FF-2684-E2F1-C99F-95A8BF9C16F7}|ContactManagerApp\\ContactManagerApp.csproj|solutionrelative:contactmanagerapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDF8FF-2684-E2F1-C99F-95A8BF9C16F7}|ContactManagerApp\\ContactManagerApp.csproj|d:\\projects\\contactmanagerapp\\contactmanagerapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ACCDF8FF-2684-E2F1-C99F-95A8BF9C16F7}|ContactManagerApp\\ContactManagerApp.csproj|solutionrelative:contactmanagerapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDF8FF-2684-E2F1-C99F-95A8BF9C16F7}|ContactManagerApp\\ContactManagerApp.csproj|d:\\projects\\contactmanagerapp\\contactmanagerapp\\validators\\contactvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCDF8FF-2684-E2F1-C99F-95A8BF9C16F7}|ContactManagerApp\\ContactManagerApp.csproj|solutionrelative:contactmanagerapp\\validators\\contactvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDF8FF-2684-E2F1-C99F-95A8BF9C16F7}|ContactManagerApp\\ContactManagerApp.csproj|d:\\projects\\contactmanagerapp\\contactmanagerapp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCDF8FF-2684-E2F1-C99F-95A8BF9C16F7}|ContactManagerApp\\ContactManagerApp.csproj|solutionrelative:contactmanagerapp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDF8FF-2684-E2F1-C99F-95A8BF9C16F7}|ContactManagerApp\\ContactManagerApp.csproj|d:\\projects\\contactmanagerapp\\contactmanagerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCDF8FF-2684-E2F1-C99F-95A8BF9C16F7}|ContactManagerApp\\ContactManagerApp.csproj|solutionrelative:contactmanagerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDF8FF-2684-E2F1-C99F-95A8BF9C16F7}|ContactManagerApp\\ContactManagerApp.csproj|d:\\projects\\contactmanagerapp\\contactmanagerapp\\services\\csvimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCDF8FF-2684-E2F1-C99F-95A8BF9C16F7}|ContactManagerApp\\ContactManagerApp.csproj|solutionrelative:contactmanagerapp\\services\\csvimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCDF8FF-2684-E2F1-C99F-95A8BF9C16F7}|ContactManagerApp\\ContactManagerApp.csproj|d:\\projects\\contactmanagerapp\\contactmanagerapp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACCDF8FF-2684-E2F1-C99F-95A8BF9C16F7}|ContactManagerApp\\ContactManagerApp.csproj|solutionrelative:contactmanagerapp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Projects\\ContactManagerApp\\ContactManagerApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ContactManagerApp\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Projects\\ContactManagerApp\\ContactManagerApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ContactManagerApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-11T11:06:02.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Projects\\ContactManagerApp\\ContactManagerApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ContactManagerApp\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Projects\\ContactManagerApp\\ContactManagerApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ContactManagerApp\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwFwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-10T19:14:14.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\ContactManagerApp\\ContactManagerApp\\Validators\\ContactValidator.cs",
+              "RelativeDocumentMoniker": "ContactManagerApp\\Validators\\ContactValidator.cs",
+              "ToolTip": "D:\\Projects\\ContactManagerApp\\ContactManagerApp\\Validators\\ContactValidator.cs",
+              "RelativeToolTip": "ContactManagerApp\\Validators\\ContactValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:58:32.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\ContactManagerApp\\ContactManagerApp\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManagerApp\\Program.cs",
+              "ToolTip": "D:\\Projects\\ContactManagerApp\\ContactManagerApp\\Program.cs",
+              "RelativeToolTip": "ContactManagerApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:32:01.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ContactManagerApp\\ContactManagerApp\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactManagerApp\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\ContactManagerApp\\ContactManagerApp\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "ContactManagerApp\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T19:19:51.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\Projects\\ContactManagerApp\\ContactManagerApp\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactManagerApp\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\Projects\\ContactManagerApp\\ContactManagerApp\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactManagerApp\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:43:24.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CsvImportService.cs",
+              "DocumentMoniker": "D:\\Projects\\ContactManagerApp\\ContactManagerApp\\Services\\CsvImportService.cs",
+              "RelativeDocumentMoniker": "ContactManagerApp\\Services\\CsvImportService.cs",
+              "ToolTip": "D:\\Projects\\ContactManagerApp\\ContactManagerApp\\Services\\CsvImportService.cs",
+              "RelativeToolTip": "ContactManagerApp\\Services\\CsvImportService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T19:13:25.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

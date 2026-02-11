@@ -1,0 +1,80 @@
+﻿@model IEnumerable<Contact>
+
+<script src="~/js/site.js"></script>
+<div class="container mt-4">
+    <h2>Contact Manager</h2>
+
+    <div class="card mb-4">
+        <div class="card-body">
+            <h5 class="card-title">Upload Contacts (CSV)</h5>
+            <form asp-action="UploadFile" method="post" enctype="multipart/form-data" class="row g-3">
+                <div class="col-auto">
+                    <input type="file" name="file" accept=".csv" class="form-control" required />
+                </div>
+                <div class="col-auto">
+                    <button type="submit" class="btn btn-primary">Upload</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="mb-3">
+        <input type="text" id="tableSearch" class="form-control" placeholder="Search and filter by any column...">
+    </div>
+
+    <table class="table table-bordered table-striped" id="contactsTable">
+        <thead class="table-dark">
+            <tr>
+                <th onclick="sortTable(0)" style="cursor:pointer">Name</th>
+                <th onclick="sortTable(1)" style="cursor:pointer">Date of birth</th>
+                <th onclick="sortTable(2)" style="cursor:pointer">Married</th>
+                <th onclick="sortTable(3)" style="cursor:pointer">Phone</th>
+                <th onclick="sortTable(4)" style="cursor:pointer">Salary</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+            @foreach (var item in Model)
+            {
+                <tr data-id="@item.Id">
+                    <td data-field="Name">
+                        <span class="view">@item.Name</span>
+                        <input class="form-control edit d-none" value="@item.Name" />
+                    </td>
+
+                    <td data-field="DateOfBirth">
+                        <span class="view">@item.DateOfBirth.ToString("yyyy-MM-dd")</span>
+                        <input type="date"
+                               class="form-control edit d-none"
+                               value="@item.DateOfBirth.ToString("yyyy-MM-dd")" />
+                    </td>
+
+                    <td data-field="Married">
+                        <span class="view">@item.Married</span>
+                        <input type="checkbox"
+                               class="form-check-input edit d-none"
+                               @(item.Married ? "checked" : "") />
+                    </td>
+
+                    <td data-field="Phone">
+                        <span class="view">@item.Phone</span>
+                        <input class="form-control edit d-none" value="@item.Phone" />
+                    </td>
+
+                    <td data-field="Salary">
+                        <span class="view">@item.Salary</span>
+                        <input type="number"
+                               step="0.01"
+                               class="form-control edit d-none"
+                               value="@item.Salary" />
+                    </td>
+
+                    <td>
+                        <button class="btn btn-primary btn-sm btn-edit">Edit</button>
+                        <button class="btn btn-danger btn-sm btn-delete">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
